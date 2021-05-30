@@ -1,0 +1,13 @@
+table,th,tr,td{
+    border-color: black;
+    border-style: solid;
+    
+}
+
+h4{
+    color:blue
+}
+
+button{
+     text-align: center;
+}
