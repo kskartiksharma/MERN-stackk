@@ -1,0 +1,55 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/1489187.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+}
+
+.heading {
+  background-color: rgb(168, 167, 167);
+  border: 2px solid white;
+  border-radius: 7px 7px 7px 7px;
+  width: 400px;
+  height: 70px;
+  font-size: 70px;
+  margin: 70px auto;
+  margin-bottom: 100px;
+}
+table {
+  margin: auto;
+  text-align: center;
+}
+
+td {
+  border: 3px solid black;
+  border-radius: 7px 7px 7px 7px;
+  float: left;
+  background-color: rgb(77, 70, 70) ;
+}
+input {
+  border: 2px solid white;
+  border-radius: 10px 10px 10px 10px;
+  shadow: 1px 1px white;
+  font-size: 30px;
+}
+
+.value {
+  width: 120px;
+  height: 70px;
+}
+#result {
+  width: 370px;
+  height: 70px;
+  
+}
+
+.value:hover {
+  background-color: darkgrey;
+}
+#clear:hover {
+  background-color: darkgrey;
+  background-color: rgba(255, 0, 0, 0.5);
+}
+#equalsto:hover {
+  background-color: darkgrey;
+  background-color: rgba(0, 255, 98, 0.5);
+}
